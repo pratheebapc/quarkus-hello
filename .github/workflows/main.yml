@@ -1,4 +1,4 @@
-name: project cicd flow
+name: Publish Docker image
 
 on:
   push:
